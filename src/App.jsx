@@ -1,9 +1,11 @@
 // import Student from "./components/props.jsx";
-import Greeting from "./components/conditionalrendering.jsx"
+// import Greeting from "./components/conditionalrendering.jsx"
+import List from "./components/list.jsx"
+
 function App() {
   return (
     <>
-      <Greeting isLoggedIn={true} username="Noman" />
+      <List />
     </>
   );
 }
