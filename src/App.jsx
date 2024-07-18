@@ -4,7 +4,8 @@
 // import Button from "./components/button.jsx";
 // import MyComponents from "./components/useStateHooks.jsx";
 // import Counter from "./components/counter.jsx";
-import MyComponents from "./components/onChangeEvent.jsx";
+// import MyComponents from "./components/onChangeEvent.jsx";
+import MyComponents from "./components/updater.jsx";
 
 function App() {
   return (
