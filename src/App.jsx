@@ -6,7 +6,8 @@
 // import Counter from "./components/counter.jsx";
 // import MyComponents from "./components/onChangeEvent.jsx";
 // import MyComponents from "./components/updater.jsx";
-import MyComponents from "./components/updateObjects.jsx";
+// import MyComponents from "./components/updateObjects.jsx";
+import MyComponents from "./components/updateArrays.jsx";
 
 function App() {
   return (
