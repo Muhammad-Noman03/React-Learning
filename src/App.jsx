@@ -3,12 +3,13 @@
 // import List from "./components/list.jsx"
 // import Button from "./components/button.jsx";
 // import MyComponents from "./components/useStateHooks.jsx";
-import Counter from "./components/counter.jsx";
+// import Counter from "./components/counter.jsx";
+import MyComponents from "./components/onChangeEvent.jsx";
 
 function App() {
   return (
     <>
-      <Counter />
+      <MyComponents />
     </>
   );
 }
